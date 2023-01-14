@@ -1,0 +1,9 @@
+Create VPC
+Create Internet Gateway
+Attach IGW to VPC (Using InternetGatewayAttachment)
+Create Public Subnet
+Create Public Route Table 
+Add Public Route to Public Route Table (Route associate with GateWay and Route Table)
+Associate Public Subnet with Public Route Table
+Create Private Subnet
+Create Security Groups (ALB, SSH connection, ECS, RDS)
