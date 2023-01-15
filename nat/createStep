@@ -1,0 +1,5 @@
+Allocate Elastic IP Address
+Create NAT Gateway for each PublicSubnet
+Create Private Route Table
+Add Route to point internet-bound traffic to NAT Gateway
+Associate Private Subnet with Private Route Table
